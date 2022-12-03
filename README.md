@@ -1,2 +1,2 @@
 # codeforces
-challegenes resolved in codeforces
+Challegenes resolved in codeforces
